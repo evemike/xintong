@@ -4,7 +4,7 @@
   "CAROUSEL": [
     {
       "class": "h-680px",
-      "bg": "/image/home/b-1.jpg",
+      "bg": "/xintong/image/home/b-1.jpg",
       "textClass": "top-20% text-center",
       "text": "home.desc",
       "annotation": [
@@ -17,7 +17,7 @@
     {
       "class": "h-680px",
       "textClass": "top-20% text-center",
-      "bg": { "url": "/image/home/b-2.jpg", "class": "hover-bg-cover" },
+      "bg": { "url": "/xintong/image/home/b-2.jpg", "class": "hover-bg-cover" },
       "text": "home.hxjzg",
       "annotation": [
         {
@@ -29,7 +29,7 @@
     },
     {
       "class": "h-680px",
-      "bg": "/image/home/b-3.png",
+      "bg": "/xintong/image/home/b-3.png",
       "textClass": "top-20% text-center",
       "text": "home.hzgy",
       "annotation": [
@@ -110,7 +110,7 @@
   "ITEM-0": {
     "name": "list",
     "bg": {
-      "url": "/image/home/bg-0.png",
+      "url": "/xintong/image/home/bg-0.png",
       "class": ""
     },
     "class": "pt-90px h-642px",
@@ -119,7 +119,7 @@
         "name": "text",
         "class": "w-1200px box-border shadow-lg m-x-auto p-y-35px p-x-28px",
         "bg": {
-          "url": "/image/home/bg-5.png",
+          "url": "/xintong/image/home/bg-5.png",
           "class": ""
         },
         "text": "home.md-0",
@@ -309,7 +309,7 @@
   },
   "ITEM-2": {
     "name": "list",
-    "bg": "/image/home/bg-7.png",
+    "bg": "/xintong/image/home/bg-7.png",
     "class": "pt-90px c-dark-200 pb-50px",
     "title": {
       "text": ["home.sor_t", "home.sor_d"],
@@ -371,7 +371,7 @@
         "data": {
           "name": "img",
           "class": "w-100px h-100px hover-scale",
-          "src": "/image/home/cpjsbg.png"
+          "src": "/xintong/image/home/cpjsbg.png"
         }
       },
       {
@@ -417,7 +417,7 @@
   },
   "ITEM-3": {
     "name": "list",
-    // "bg": "/image/home/bg-3.jpeg",
+    // "bg": "/xintong/image/home/bg-3.jpeg",
     "class": "pt-90px pb-50px c-dark-200",
     "title": {
       "name": "text",
