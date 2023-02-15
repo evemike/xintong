@@ -4,9 +4,9 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-600px",
-    "bg": { "url": "/image/gswh/header.jpeg", "class": "hover-bg-cover" },
+    "bg": { "url": "/xintong/image/gswh/header.jpeg", "class": "hover-bg-cover" },
     "imgProps":{
-      "src":"/image/gswh/h-c.png",
+      "src":"/xintong/image/gswh/h-c.png",
       "class":"important-absolute top-200px w-500px left-100px"
     },
     "textProps": {
@@ -50,7 +50,7 @@
         "name":"imgtext",
         "class":"overflow-hidden",
         "imgProps":{
-          "src":"/image/gswh/md-1.jpg",
+          "src":"/xintong/image/gswh/md-1.jpg",
           "imgClass":"ts-20 scale-item-2",
           "class":"w-50% overflow-hidden "
         },
@@ -67,7 +67,7 @@
         "name":"imgtext",
         "class":"overflow-hidden flex-row-reverse",
         "imgProps":{
-          "src":"/image/gswh/md-2.jpg",
+          "src":"/xintong/image/gswh/md-2.jpg",
           "imgClass":"ts-20 scale-item-2",
           "class":"w-50% overflow-hidden "
         },

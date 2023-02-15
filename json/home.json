@@ -4,7 +4,7 @@
   "CAROUSEL": [
     {
       "class": "h-800px",
-      "bg": "/image/home/响水.jpg",
+      "bg": "/xintong/image/home/响水.jpg",
       "text": "home.desc",
       "annotation": [
         {
@@ -14,7 +14,7 @@
     },
     {
       "class": "h-800px",
-      "bg": { "url": "/image/home/商务.jpg", "class": "hover-bg-cover" },
+      "bg": { "url": "/xintong/image/home/商务.jpg", "class": "hover-bg-cover" },
       "text": "home.hxjzg",
       "annotation": [
         {
@@ -25,7 +25,7 @@
     },
     {
       "class": "h-1000px",
-      "bg": "/image/home/运输.png",
+      "bg": "/xintong/image/home/运输.png",
       "text": "home.hzgy",
       "annotation": [
         {
@@ -105,7 +105,7 @@
     "name": "text",
     "class": "",
     "bg": {
-      "url": "/image/home/bg-4.png",
+      "url": "/xintong/image/home/bg-4.png",
       "class": ""
     },
     "text": "home.md-0",
@@ -216,7 +216,7 @@
   },
   "ITEM-2": {
     "name": "list",
-    "bg": "/image/home/bg-2.jpeg",
+    "bg": "/xintong/image/home/bg-2.jpeg",
     "class": "p-48px pt-100px pb-100px",
     "title": {
       "text": ["home.sor_t", "home.sor_d"],
@@ -279,7 +279,7 @@
         "data": {
           "name": "img",
           "class": "w-100px h-100px hover-scale",
-          "src": "/image/home/cpjsbg.png"
+          "src": "/xintong/image/home/cpjsbg.png"
         }
       },
       {
@@ -325,7 +325,7 @@
   },
   "ITEM-3": {
     "name": "list",
-    // "bg": "/image/home/bg-3.jpeg",
+    // "bg": "/xintong/image/home/bg-3.jpeg",
     "class": "p-48px pt-100px pb-100px",
     "title": {
       "name": "text",
