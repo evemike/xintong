@@ -1,0 +1,126 @@
+{
+  "TITLE": "",
+  "CONTENTS": ["ITEM-1","ITEM-2"],
+  "ITEM-1": {
+    "name": "imgtext",
+    "class": "h-800px",
+    "bg": { "url": "/image/cpfw/header.jpg", "class": "hover-bg-cover" },
+    // "imgProps":{
+    //   "src":"/image/jyzl/phone.gif",
+    //   "class":"w-100px top-230px left-500px important-absolute"
+    // },
+    "textProps": {
+      "class": "absolute top-200px left-40%",
+      "text": ["cpfw.header", "cpfw.desc"],
+      "annotation": [
+        {
+          "class": "text-40px c-orange "
+        },
+        { "line": 1, "class": "ml-80px mt-100px" },
+        {
+          "text": "base.cp",
+          "class": "inline-block ml-24px mr-24px text-100px animate__infinite animate__animated animate__heartBeat"
+        },
+        {
+          "text": ["base.jsj"],
+          "class": "inline-block ml-24px mr-24px text-60px animate__infinite animate__animated animate__slower animate__rubberBand"
+        },
+        {
+          "text": ["base.zzw"],
+          "class": "inline-block ml-24px mr-24px text-60px animate__infinite animate__animated animate__slow animate__bounce"
+        },
+        {
+          "text": ["base.qyc"],
+          "class": "inline-block ml-24px mr-24px text-60px animate__infinite animate__animated animate__slow animate__lightSpeedInRight"
+        },
+        {
+          "text": ["base.cc"],
+          "class": "inline-block ml-24px mr-24px text-60px animate__infinite animate__animated animate__slow animate__slideInDown"
+        }
+      ]
+    }
+  },
+  "ITEM-2": {
+    "name": "list",
+    "class":"p-48px bg-light",
+    "common":{"class":"mb-24px p-24px flex rd-8px  hover-items hover-bg-sky-100"},
+    "data": [
+      {
+        "name": "imgtext",
+        "class":"flex",
+        "imgProps": {
+          "src":"/image/cpfw/cp-1.png",
+          "imgClass":"ts-20 scale-item-5",
+          "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
+        },
+        "textProps": {
+          "class":"flex-1 p-24px rd-8px",
+          "text":["cpfw.cp1_t","cpfw.cp1_d","cpfw.cp1_s"],
+          "annotation":[
+            {"class":"h-primary","inclass":"fw-bold "},
+            {"text":"cpfw.cp1_t","class":"inline-block text-32px fw-bold ","inclass":"animate__infinite animate__animated animate__bounce"},
+            {"line":1,"class":"mt-24px mb-24px text-24px"},
+            {"line":[2,3,4,5,6],"class":"text-20px mt-8px"}
+          ]
+        }
+      },
+      {
+        "name": "imgtext",
+        "class":"flex",
+        "imgProps": {
+          "src":"/image/cpfw/cp-2.jpg",
+          "imgClass":"ts-20 scale-item-5",
+          "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
+        },
+        "textProps": {
+          "class":"flex-1 p-24px rd-8px",
+          "text":["cpfw.cp2_t","cpfw.cp2_d","cpfw.cp2_s"],
+          "annotation":[
+            {"class":"h-primary","inclass":"fw-bold "},
+            {"text":"cpfw.cp2_t","class":"inline-block text-32px fw-bold ","inclass":"animate__infinite animate__animated animate__slow animate__rubberBand"},
+            {"line":1,"class":"mt-24px mb-24px text-24px"},
+            {"line":[2,3,4,5,6],"class":"text-20px mt-8px"}
+          ]
+        }
+      },
+      {
+        "name": "imgtext",
+        "class":"flex",
+        "imgProps": {
+          "src":"/image/cpfw/cp-3.png",
+          "imgClass":"ts-20 scale-item-5",
+          "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
+        },
+        "textProps": {
+          "class":"flex-1 p-24px rd-8px",
+          "text":["cpfw.cp3_t","cpfw.cp3_d","cpfw.cp3_s"],
+          "annotation":[
+            {"class":"h-primary","inclass":"fw-bold "},
+            {"text":"cpfw.cp3_t","class":"inline-block text-32px fw-bold ","inclass":"animate__infinite animate__animated animate__slow animate__slideInDown"},
+            {"line":1,"class":"mt-24px mb-24px text-24px"},
+            {"line":[2,3,4,5,6],"class":"text-20px mt-8px"}
+          ]
+        }
+      },
+      {
+        "name": "imgtext",
+        "class":"flex",
+        "imgProps": {
+          "src":"/image/cpfw/cp-4.jpg",
+          "imgClass":"ts-20 scale-item-5",
+          "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
+        },
+        "textProps": {
+          "class":"flex-1 p-24px rd-8px",
+          "text":["cpfw.cp4_t","cpfw.cp4_d","cpfw.cp4_s"],
+          "annotation":[
+            {"class":"h-primary","inclass":"fw-bold "},
+            {"text":"cpfw.cp4_t","class":"inline-block text-32px fw-bold ","inclass":"animate__infinite animate__animated animate__slow animate__lightSpeedInRight"},
+            {"line":1,"class":"mt-24px mb-24px text-24px"},
+            {"line":[2,3,4,5,6],"class":"text-20px mt-8px"}
+          ]
+        }
+      }
+    ]
+  }
+}
