@@ -4,7 +4,7 @@
   "CAROUSEL": [
     {
       "class": "h-680px",
-      "bg": "/xintong/image/home/b-1.jpg",
+      "bg": "/image/home/b-1.jpg",
       "textClass": "top-20% text-center",
       "text": "home.desc",
       "annotation": [
@@ -17,7 +17,7 @@
     {
       "class": "h-680px",
       "textClass": "top-20% text-center",
-      "bg": { "url": "/xintong/image/home/b-2.jpg", "class": "hover-bg-cover" },
+      "bg": { "url": "/image/home/b-2.jpg", "class": "hover-bg-cover" },
       "text": "home.hxjzg",
       "annotation": [
         {
@@ -29,7 +29,7 @@
     },
     {
       "class": "h-680px",
-      "bg": "/xintong/image/home/b-3.png",
+      "bg": "/image/home/b-3.png",
       "textClass": "top-20% text-center",
       "text": "home.hzgy",
       "annotation": [
@@ -106,11 +106,11 @@
   //   ]
   // },
   // 页面显示内容的顺序 , 内容具体配置在下方
-  "CONTENTS": ["ITEM-0", "ITEM-1", "ITEM-2", "ITEM-3"],
+  "CONTENTS": ["ITEM-0", "ITEM-11","ITEM-1", "ITEM-2", "ITEM-3"],
   "ITEM-0": {
     "name": "list",
     "bg": {
-      "url": "/xintong/image/home/bg-0.png",
+      "url": "/image/home/bg-0.png",
       "class": ""
     },
     "class": "pt-90px h-642px",
@@ -119,7 +119,7 @@
         "name": "text",
         "class": "w-1200px box-border shadow-lg m-x-auto p-y-35px p-x-28px",
         "bg": {
-          "url": "/xintong/image/home/bg-5.png",
+          "url": "/image/home/bg-5.png",
           "class": ""
         },
         "text": "home.md-0",
@@ -145,7 +145,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-1.png",
+              "src":"/image/home/m0-1.png",
               "class":"h-62px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -156,7 +156,7 @@
               "text": ["home.layer.sbzl",""],
               "class": "text-16px fw-800",
               "annotation":[
-                {"line":1,"class":"w-15px h-2px inline-block bg-lime"}
+                {"line":1,"class":"w-15px h-2px inline-block bg-blue-500"}
               ]
             }
           },
@@ -165,8 +165,8 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-2.png",
-              "class":"h-62px p-4px scale-item-2 ts-10"
+              "src":"/image/home/m0-2.png",
+              "class":"h-62px w-90px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
             //   "icon": "icon-wuliu",
@@ -176,7 +176,7 @@
               "text": ["home.layer.znwl",""],
               "class": "text-16px fw-800",
               "annotation":[
-                {"line":1,"class":"w-15px h-2px inline-block bg-lime"}
+                {"line":1,"class":"w-15px h-2px inline-block bg-blue-500"}
               ]
             }
           },
@@ -185,8 +185,8 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-3.png",
-              "class":"h-62px p-4px scale-item-2 ts-10"
+              "src":"/image/home/m0-3.png",
+              "class":"h-62px  p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
             //   "icon": "icon-cx",
@@ -196,7 +196,7 @@
               "text": ["home.layer.cxzz",""],
               "class": "text-16px fw-800",
               "annotation":[
-                {"line":1,"class":"w-15px h-2px inline-block bg-lime"}
+                {"line":1,"class":"w-15px h-2px inline-block bg-blue-500"}
               ]
             }
           },
@@ -205,7 +205,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-4.png",
+              "src":"/image/home/m0-4.png",
               "class":"h-62px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -216,11 +216,88 @@
               "text": ["home.layer.pzfw",""],
               "class": "text-16px fw-800",
               "annotation":[
-                {"line":1,"class":"w-15px h-2px inline-block bg-lime"}
+                {"line":1,"class":"w-15px h-2px inline-block bg-blue-500"}
               ]
             }
           }
         ]
+      }
+    ]
+  },
+  "ITEM-11":{
+    "name": "list",
+    "class": "pt-90px pb-50px c-dark-200",
+    "bg": "/image/home/bg-9.png",
+    "title": {
+      "text": ["cpfw.header","cpfw.desc"],
+      "annotation":[
+        { "line": 0, "class": "text-36px fw-700 lh-46px mb-15px h-34px" },
+        { "line": 1, "class": "text-16px fw-400 h-17px lh-22px mt-40px" }
+      ],
+      "class": "text-center  mb-60px"
+    },
+    "boxClass": "flex justify-between flex-wrap w-1200px m-x-auto pb-24px",
+    "commonClass": "w-24% h-250px hover-items text-center box-border overflow-hidden",
+    "data":[
+      {
+        "name":"imgtext",
+        "imgProps":{
+          "src":"/image/cpfw/cp-1.png",
+          "class":"bg-dark h-100%"
+        },
+        "textProps":{
+          "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
+          "text":["cpfw.cp1_t","cpfw.cp1_d","cpfw.cp1_ds"],
+          "annotation":[
+            {"line":0,"class":"text-20px fw-800 lh-32px mb-10px"},
+            {"line":[1,2,3,4,5,6,7,8],"class":"text-12px text-left indent-8"}
+          ]
+        }
+      },
+      {
+        "name":"imgtext",
+        "imgProps":{
+          "src":"/image/cpfw/cp-2.jpg",
+          "class":"bg-dark h-100%"
+        },
+        "textProps":{
+          "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
+          "text":["cpfw.cp2_t","cpfw.cp2_d","cpfw.cp2_ds"],
+          "annotation":[
+            {"line":0,"class":"text-20px fw-800 lh-32px mb-10px"},
+            {"line":[1,2,3,4,5,6,7,8],"class":"text-12px text-left indent-8"}
+          ]
+        }
+      },
+      {
+        "name":"imgtext",
+        "imgProps":{
+          "src":"/image/cpfw/cp-3.png",
+          "class":"bg-dark h-100%"
+        },
+        "textProps":{
+          "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
+          "text":["cpfw.cp3_t","cpfw.cp3_d","cpfw.cp3_ds"],
+          "annotation":[
+            {"line":0,"class":"text-20px fw-800 lh-32px mb-10px"},
+            {"line":[1,2,3,4,5,6,7,8],"class":"text-12px text-left indent-8"}
+          ]
+        }
+      },
+      {
+        "name":"imgtext",
+        "imgProps":{
+          "src":"/image/cpfw/cp-4.jpg",
+          "class":"bg-dark h-100%"
+        },
+        "textProps":{
+          "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
+          "text":["cpfw.cp4_t","cpfw.cp4_d","cpfw.cp4_ds"],
+          "annotation":[
+            {"line":0,"class":"text-20px fw-800 lh-32px mb-10px"},
+            {"line":[1,2,3,4,5,6,7,8],"class":"text-12px text-left indent-8"}
+          ]
+        }
       }
     ]
   },
@@ -325,7 +402,7 @@
   },
   "ITEM-2": {
     "name": "list",
-    "bg": "/xintong/image/home/bg-7.png",
+    "bg": "/image/home/bg-7.png",
     "class": "pt-90px c-dark-200 pb-50px",
     "title": {
       "text": ["home.sor_t", "home.sor_d"],
@@ -380,14 +457,14 @@
         "class": "flex hover-items items-center justify-center",
         "bg": {
           "icon": "icon-yh",
-          "iconClass": "text-250px ts-20 scale-item-10",
+          "iconClass": "text-250px ts-20 scale-item-5",
           "class": "xyz-in rd-600px flex items-center justify-center"
         },
         "xyz": "iterate-infinite duration-30 ease-linear rotate-right-100%",
         "data": {
           "name": "img",
           "class": "w-100px h-100px hover-scale",
-          "src": "/xintong/image/home/cpjsbg.png"
+          "src": "/image/home/cpjsbg.png"
         }
       },
       {
@@ -401,7 +478,7 @@
             "name": "imgtext",
             "svgProps": {
               "icon": "icon-car-tlj",
-              "class": "text-100px c-amber ts-20 scale-item-2"
+              "class": "text-80px c-amber p-10px ts-20 scale-item-2"
             },
             "textProps": {
               "text": ["home.sor3_t", "home.sor3_d"],
@@ -416,7 +493,7 @@
             "name": "imgtext",
             "svgProps": {
               "icon": "icon-gcs",
-              "class": "text-100px ts-20 scale-item-2"
+              "class": "text-80px ts-20 p-10px scale-item-2"
             },
             "textProps": {
               "text": ["home.sor4_t", "home.sor4_d"],
@@ -433,7 +510,7 @@
   },
   "ITEM-3": {
     "name": "list",
-    // "bg": "/xintong/image/home/bg-3.jpeg",
+    "bg": "/image/home/bg-8.png",
     "class": "pt-90px pb-50px c-dark-200",
     "title": {
       "name": "text",
@@ -446,7 +523,7 @@
     },
     "boxClass": "flex justify-around mt-64px p-24px text-center",
     // "commonClass": "hover-backdrop-blur-10px hover-items hover-bg-op-40 hover-bg-white p-24px w-20% hover-c-orange rd-8px",
-    "commonClass": "hover-backdrop-blur-10px hover-items p-24px w-20% hover-c-orange rd-8px text-16px",
+    "commonClass": "hover-items p-24px w-20% hover-c-orange rd-8px text-16px",
     "data": [
       {
         "name": "text",

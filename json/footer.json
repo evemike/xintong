@@ -8,7 +8,7 @@
       // {
       //   "name":"img",
       //   "class":"mb-33px",
-      //   "src":"/xintong/image/footer/ft_hanyun_logo.png"
+      //   "src":"/image/footer/ft_hanyun_logo.png"
       // },
       {
         "name":"text",
@@ -30,7 +30,7 @@
       //   "class":"mb-10px mt-100px",
       //   "boxClass":"flex",
       //   "imgClass":"w-106px mr-30px",
-      //   "src":["/xintong/image/footer/shipin_code_2.jpg","/xintong/image/footer/weixin_code.jpg"]
+      //   "src":["/image/footer/shipin_code_2.jpg","/image/footer/weixin_code.jpg"]
       // },
       // {
       //   "name":"text",
