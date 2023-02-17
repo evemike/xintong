@@ -4,7 +4,7 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-600px",
-    "bg": { "url": "/image/rczp/header.jpeg", "class": "hover-bg-cover" },
+    "bg": { "url": "/xintong/image/rczp/header.jpeg", "class": "hover-bg-cover" },
     "textProps": {
       "class": "absolute top-160px left-50%",
       "text": ["rczp.header", "rczp.desc"],

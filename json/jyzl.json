@@ -4,9 +4,9 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-800px",
-    "bg": { "url": "/image/jyzl/header.jpg", "class": "hover-bg-cover" },
+    "bg": { "url": "/xintong/image/jyzl/header.jpg", "class": "hover-bg-cover" },
     // "imgProps":{
-    //   "src":"/image/jyzl/phone.gif",
+    //   "src":"/xintong/image/jyzl/phone.gif",
     //   "class":"w-100px top-230px left-500px important-absolute"
     // },
     "textProps": {
@@ -48,7 +48,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/image/jyzl/item1-1.jpg"
+          "src":"/xintong/image/jyzl/item1-1.jpg"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -65,7 +65,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/image/jyzl/item1-2.png"
+          "src":"/xintong/image/jyzl/item1-2.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -82,7 +82,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/image/jyzl/item1-3.png"
+          "src":"/xintong/image/jyzl/item1-3.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -99,7 +99,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/image/jyzl/item1-4.png"
+          "src":"/xintong/image/jyzl/item1-4.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -116,7 +116,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/image/jyzl/item1-5.png"
+          "src":"/xintong/image/jyzl/item1-5.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
