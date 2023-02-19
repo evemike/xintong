@@ -4,7 +4,7 @@
   "CAROUSEL": [
     {
       "class": "h-680px",
-      "bg": "/image/home/b-1.jpg",
+      "bg": "/xintong/image/home/b-1.jpg",
       "textClass": "top-20% text-center",
       "text": "home.desc",
       "annotation": [
@@ -17,7 +17,7 @@
     {
       "class": "h-680px",
       "textClass": "top-20% text-center",
-      "bg": { "url": "/image/home/b-2.jpg", "class": "hover-bg-cover" },
+      "bg": { "url": "/xintong/image/home/b-2.jpg", "class": "hover-bg-cover" },
       "text": "home.hxjzg",
       "annotation": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "class": "h-680px",
-      "bg": "/image/home/b-4.png",
+      "bg": "/xintong/image/home/b-4.png",
       "textClass": "top-20% text-center",
       "text": "home.hzgy",
       "annotation": [
@@ -112,7 +112,7 @@
   "ITEM-0": {
     "name": "list",
     "bg": {
-      "url": "/image/home/bg-0.png",
+      "url": "/xintong/image/home/bg-0.png",
       "class": ""
     },
     "class": "pt-90px h-642px",
@@ -121,7 +121,7 @@
         "name": "text",
         "class": "w-1200px box-border shadow-lg m-x-auto p-y-35px p-x-28px",
         "bg": {
-          "url": "/image/home/bg-5.png",
+          "url": "/xintong/image/home/bg-5.png",
           "class": ""
         },
         "text": "home.md-0",
@@ -147,7 +147,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/image/home/m0-1.png",
+              "src":"/xintong/image/home/m0-1.png",
               "class":"h-62px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -167,7 +167,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/image/home/m0-2.png",
+              "src":"/xintong/image/home/m0-2.png",
               "class":"h-62px w-90px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -187,7 +187,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/image/home/m0-3.png",
+              "src":"/xintong/image/home/m0-3.png",
               "class":"h-62px  p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -207,7 +207,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/image/home/m0-4.png",
+              "src":"/xintong/image/home/m0-4.png",
               "class":"h-62px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -229,7 +229,7 @@
   "ITEM-11":{
     "name": "list",
     "class": "pt-90px pb-50px c-dark-200",
-    "bg": "/image/home/bg-9.png",
+    "bg": "/xintong/image/home/bg-9.png",
     "title": {
       "text": ["cpfw.header",""],
       "annotation":[
@@ -244,7 +244,7 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/image/cpfw/cp-1.png",
+          "src":"/xintong/image/cpfw/cp-1.png",
           "class":"bg-dark h-100%"
         },
         "textProps":{
@@ -259,7 +259,7 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/image/cpfw/cp-2.jpg",
+          "src":"/xintong/image/cpfw/cp-2.jpg",
           "class":"bg-dark h-100%"
         },
         "textProps":{
@@ -274,7 +274,7 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/image/cpfw/cp-3.png",
+          "src":"/xintong/image/cpfw/cp-3.png",
           "class":"bg-dark h-100%"
         },
         "textProps":{
@@ -289,7 +289,7 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/image/cpfw/cp-4.jpg",
+          "src":"/xintong/image/cpfw/cp-4.jpg",
           "class":"bg-dark h-100%"
         },
         "textProps":{
@@ -404,7 +404,7 @@
   },
   "ITEM-2": {
     "name": "list",
-    "bg": "/image/home/bg-7.png",
+    "bg": "/xintong/image/home/bg-7.png",
     "class": "pt-90px c-dark-200 pb-50px",
     "title": {
       "text": ["home.sor_t", "home.sor_d"],
@@ -466,7 +466,7 @@
         "data": {
           "name": "img",
           "class": "w-100px h-100px hover-scale",
-          "src": "/image/home/cpjsbg.png"
+          "src": "/xintong/image/home/cpjsbg.png"
         }
       },
       {
@@ -512,7 +512,7 @@
   },
   "ITEM-3": {
     "name": "list",
-    "bg": "/image/home/bg-8.png",
+    "bg": "/xintong/image/home/bg-8.png",
     "class": "pt-90px pb-50px c-dark-200",
     "title": {
       "name": "text",
