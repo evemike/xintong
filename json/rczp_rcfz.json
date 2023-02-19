@@ -3,8 +3,8 @@
   "CONTENTS": ["ITEM-1", "ITEM-2"],
   "ITEM-1": {
     "name": "imgtext",
-    "class": "h-460px c-dark-200",
-    "bg": { "url": "/xintong/image/rczp/header.png", "class": "" },
+    "class": "h-680px c-dark-200",
+    "bg": { "url": "/image/rczp/header.png", "class": "" },
     "textProps": {
       "class": "absolute top-45% w-1106px m-x-auto translate-y--50%",
       "text": ["rczp.rcfz-h", "rczp.rcfz-hd"],
@@ -37,7 +37,7 @@
     "data": [
       {
         "name": "list",
-        "bg": "/xintong/image/rczp/t-1.png",
+        "bg": "/image/rczp/t-1.png",
         "boxClass": "relative w-100% h-100% hover-items overflow-hidden",
         "data": [
           {
@@ -51,7 +51,7 @@
             "class":"pt-38px pl-36px flex",
             "imgProps":{
               "class":"h-38px",
-              "src":"/xintong/image/rczp/t-1-icon.png"
+              "src":"/image/rczp/t-1-icon.png"
             },
             "textProps":{
               "class":"pl-20px text-34px lh-46px",
@@ -62,7 +62,7 @@
       },
       {
         "name": "list",
-        "bg": "/xintong/image/rczp/t-2.png",
+        "bg": "/image/rczp/t-2.png",
         "boxClass": "relative w-100% h-100% hover-items overflow-hidden",
         "data": [
           {
@@ -76,7 +76,7 @@
             "class":"pt-38px pl-36px flex",
             "imgProps":{
               "class":"h-38px",
-              "src":"/xintong/image/rczp/t-2-icon.png"
+              "src":"/image/rczp/t-2-icon.png"
             },
             "textProps":{
               "class":"pl-20px text-34px lh-46px",

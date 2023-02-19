@@ -3,8 +3,8 @@
   // 轮播图 走马灯 图片 ， 当数组长度是 0 的时候，走马灯模块将会不显示
   "CAROUSEL": [
     {
-      "class": "h-680px",
-      "bg": "/xintong/image/home/b-1.jpg",
+      "class": "h-720px",
+      "bg": "/image/home/b-1.jpg",
       "textClass": "top-20% text-center",
       "text": "home.desc",
       "annotation": [
@@ -15,9 +15,9 @@
       ]
     },
     {
-      "class": "h-680px",
-      "textClass": "top-20% text-center",
-      "bg": { "url": "/xintong/image/home/b-2.jpg", "class": "hover-bg-cover" },
+      "class": "h-720px",
+      "textClass": "top-15% text-center",
+      "bg": { "url": "/image/home/b-2.png", "class": "hover-bg-cover" },
       "text": "home.hxjzg",
       "annotation": [
         {
@@ -29,9 +29,9 @@
       ]
     },
     {
-      "class": "h-680px",
-      "bg": "/xintong/image/home/b-4.png",
-      "textClass": "top-20% text-center",
+      "class": "h-720px",
+      "bg": "/image/home/b-4.png",
+      "textClass": "top-24px text-center",
       "text": "home.hzgy",
       "annotation": [
         {
@@ -112,7 +112,7 @@
   "ITEM-0": {
     "name": "list",
     "bg": {
-      "url": "/xintong/image/home/bg-0.png",
+      "url": "/image/home/bg-0.png",
       "class": ""
     },
     "class": "pt-90px h-642px",
@@ -121,7 +121,7 @@
         "name": "text",
         "class": "w-1200px box-border shadow-lg m-x-auto p-y-35px p-x-28px",
         "bg": {
-          "url": "/xintong/image/home/bg-5.png",
+          "url": "/image/home/bg-5.png",
           "class": ""
         },
         "text": "home.md-0",
@@ -147,7 +147,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-1.png",
+              "src":"/image/home/m0-1.png",
               "class":"h-62px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -167,7 +167,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-2.png",
+              "src":"/image/home/m0-2.png",
               "class":"h-62px w-90px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -187,7 +187,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-3.png",
+              "src":"/image/home/m0-3.png",
               "class":"h-62px  p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -207,7 +207,7 @@
             "class":"flex justify-between flex-row-reverse",
             "style": "background: linear-gradient(0deg, #c9d4e7 0%, #ffffff 100%);",
             "imgProps":{
-              "src":"/xintong/image/home/m0-4.png",
+              "src":"/image/home/m0-4.png",
               "class":"h-62px p-4px scale-item-2 ts-10"
             },
             // "svgProps": {
@@ -228,8 +228,8 @@
   },
   "ITEM-11":{
     "name": "list",
-    "class": "pt-90px pb-50px c-dark-200",
-    "bg": "/xintong/image/home/bg-9.png",
+    "class": "pt-120px pb-90px c-dark-200",
+    // "bg": "/image/home/bg-9.png",
     "title": {
       "text": ["cpfw.header",""],
       "annotation":[
@@ -239,13 +239,13 @@
       "class": "text-center  mb-60px"
     },
     "boxClass": "flex justify-between flex-wrap w-1200px m-x-auto pb-24px",
-    "commonClass": "w-24% h-250px hover-items text-center box-border overflow-hidden",
+    "commonClass": "w-24% h-300px hover-items text-center box-border overflow-hidden",
     "data":[
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/xintong/image/cpfw/cp-1.png",
-          "class":"bg-dark h-100%"
+          "src":"/image/home/zzw.png",
+          "class":"bg-white h-100%"
         },
         "textProps":{
           "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
@@ -259,8 +259,8 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/xintong/image/cpfw/cp-2.jpg",
-          "class":"bg-dark h-100%"
+          "src":"/image/home/jsj.png",
+          "class":"bg-white h-100%"
         },
         "textProps":{
           "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
@@ -274,8 +274,8 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/xintong/image/cpfw/cp-3.png",
-          "class":"bg-dark h-100%"
+          "src":"/image/home/cc.png",
+          "class":"bg-white h-100%"
         },
         "textProps":{
           "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
@@ -289,8 +289,8 @@
       {
         "name":"imgtext",
         "imgProps":{
-          "src":"/xintong/image/cpfw/cp-4.jpg",
-          "class":"bg-dark h-100%"
+          "src":"/image/home/qyc.png",
+          "class":"bg-white h-100%"
         },
         "textProps":{
           "class":"ts-5 c-white important-absolute top-198px w-100% h-100% bg-black box-border p-10px bg-op-60 to-top-0",
@@ -305,7 +305,8 @@
   },
   "ITEM-1": {
     "name": "list",
-    "class": "pt-90px pb-50px c-dark-200 bg-white",
+    "class": "pt-120px pb-90px c-dark-200 bg-white",
+    "bg":"/image/home/bg-7.png",
     "title": {
       "text": "home.xtzl",
       "class": "text-center text-36px fw-700 mb-60px"
@@ -404,8 +405,8 @@
   },
   "ITEM-2": {
     "name": "list",
-    "bg": "/xintong/image/home/bg-7.png",
-    "class": "pt-90px c-dark-200 pb-50px",
+    // "bg": "/image/home/bg-7.png",
+    "class": "pt-90px pb-9=50px c-dark-200 pb-50px",
     "title": {
       "text": ["home.sor_t", "home.sor_d"],
       "class": "text-center  mb-60px",
@@ -429,7 +430,7 @@
             //   "class": "text-100px c-red ts-20 scale-item-2"
             // },
             "imgProps":{
-              "src":"/xintong/image/home/cp.png",
+              "src":"/image/home/cp.png",
               "imgClass":"important-w-100px important-h-auto ts-10 scale-item-2"
             },
             "textProps": {
@@ -448,7 +449,7 @@
             //   "class": "text-100px c-orange ts-20 scale-item-2"
             // },
             "imgProps":{
-              "src":"/xintong/image/home/zl.png",
+              "src":"/image/home/zl.png",
               "imgClass":"important-w-100px important-h-auto ts-10 scale-item-2"
             },
             "textProps": {
@@ -474,7 +475,7 @@
         "data": {
           "name": "img",
           "class": "w-100px h-100px hover-scale",
-          "src": "/xintong/image/home/cpjsbg.png"
+          "src": "/image/home/cpjsbg.png"
         }
       },
       {
@@ -491,7 +492,7 @@
             //   "class": "text-80px c-amber p-10px ts-20 scale-item-2"
             // },
             "imgProps":{
-              "src":"/xintong/image/home/sc.png",
+              "src":"/image/home/sc.png",
               "imgClass":"important-w-100px important-h-auto ts-10 scale-item-2"
             },
             "textProps": {
@@ -510,7 +511,7 @@
             //   "class": "text-80px ts-20 p-10px scale-item-2"
             // },
             "imgProps":{
-              "src":"/xintong/image/home/fw.png",
+              "src":"/image/home/fw.png",
               "imgClass":"important-w-100px important-h-auto ts-10 scale-item-2"
             },
             "textProps": {
@@ -528,27 +529,27 @@
   },
   "ITEM-3": {
     "name": "list",
-    "bg": "/xintong/image/home/bg-8.png",
-    "class": "pt-90px pb-50px c-dark-200",
+    "bg": "/image/home/bg-8.png",
+    "class": "pt-90px pb-50px c-dark-200 h-600px",
     "title": {
       "name": "text",
       "text": ["home.tg_t", "home.tg_d"],
-      "class": "text-center  mb-60px",
+      "class": "text-center  mb-60px mt-64px",
       "annotation": [
         { "line": 0, "class": "text-36px fw-700 lh-46px mb-15px h-34px" },
         { "line": 1, "class": "text-16px fw-400 h-17px lh-22px mt-40px" }
       ]
     },
-    "boxClass": "flex w-1200px m-x-auto justify-between mt-64px p-y-24px text-center",
+    "boxClass": "flex w-1200px m-x-auto justify-between mt-120px p-y-24px text-center",
     // "commonClass": "hover-backdrop-blur-10px hover-items hover-bg-op-40 hover-bg-white p-24px w-20% hover-c-orange rd-8px",
-    "commonClass": "hover-items p-24px w-20% hover-c-orange rd-8px text-16px",
+    "commonClass": "hover-items p-24px w-20% rd-8px text-16px",
     "data": [
       {
         "name": "text",
 
         "text": ["home.tg1_n", "home.tg1_d", "home.tg1_t"],
         "annotation": [
-          { "class": "scale-item-5 ts-5" },
+          { "class": "scale-item-5 ts-5 h-primary" },
           { "line": 0, "class": "text-36px inline-block" },
           { "line": 1, "class": "ml-16px mt-16px inline-block" },
           { "line": 2, "class": "mt-32px" }
@@ -558,7 +559,7 @@
         "name": "text",
         "text": ["home.tg2_n", "home.tg2_d", "home.tg2_t"],
         "annotation": [
-          { "class": "scale-item-5 ts-5" },
+          { "class": "scale-item-5 ts-5 h-primary" },
           { "line": 0, "class": "text-36px fw-bold inline-block" },
           { "line": 1, "class": "ml-16px mt-16px inline-block" },
           { "line": 2, "class": "mt-32px" }
@@ -568,7 +569,7 @@
         "name": "text",
         "text": ["home.tg3_n", "home.tg3_d", "home.tg3_t"],
         "annotation": [
-          { "class": "scale-item-5 ts-5" },
+          { "class": "scale-item-5 ts-5 h-primary" },
           { "line": 0, "class": "text-36px fw-bold inline-block" },
           { "line": 1, "class": "ml-16px mt-16px inline-block" },
           { "line": 2, "class": "mt-32px" }
@@ -578,7 +579,7 @@
         "name": "text",
         "text": ["home.tg4_n", "home.tg4_d", "home.tg4_t"],
         "annotation": [
-          { "class": "scale-item-5 ts-5" },
+          { "class": "scale-item-5 ts-5 h-primary" },
           { "line": 0, "class": "text-36px fw-bold inline-block" },
           { "line": 1, "class": "ml-16px mt-16px inline-block" },
           { "line": 2, "class": "mt-32px" }
