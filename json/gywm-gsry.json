@@ -1,25 +1,25 @@
 {
   "TITLE": "",
-  "CONTENTS": ["ITEM-1", "ITEM-2", "ITEM-21", "ITEM-3", "ITEM-4", "ITEM-5"],
+  "CONTENTS": ["ITEM-1",  "ITEM-3", "ITEM-4"],
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-600px",
-    "bg": { "url": "/image/gywm/header.jpg", "class": "hover-bg-cover" },
-    "imgProps": {
-      "src": "/image/gywm/h-c.png",
-      "class": "w-600px top-76px left-55% important-absolute"
-    },
+    "bg": { "url": "/image/gywm/gsry.png", "class": "hover-bg-cover" },
+    // "imgProps": {
+    //   "src": "/image/gywm/h-c.png",
+    //   "class": "w-600px top-76px left-55% important-absolute"
+    // },
     "textProps": {
       "class": "important-absolute top-160px left-200px w-30%",
-      "text": ["gywm.header", "gywm.desc"],
+      "text": ["gywm.header", "menu.gywm_gsry"],
       "annotation": [
         {
-          "class": "text-40px c-amber-500 "
+          "class": "text-36px c-amber-500 fw-800"
         },
-        { "line": 1, "class": "ml-80px mt-100px" },
+        { "line": 1, "class": "ml-80px mt-36px" },
         {
           "text": "base.xt",
-          "class": "inline-block ml-24px mr-24px text-100px animate__infinite animate__animated animate__heartBeat"
+          "class": "inline-block ml-24px mr-24px text-60px animate__infinite animate__animated animate__heartBeat"
         }
       ]
     }
