@@ -4,9 +4,9 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-720px",
-    "bg": { "url": "/image/cpfw/header.png", "class": "hover-bg-cover" }
+    "bg": { "url": "/xintong/image/cpfw/header.png", "class": "hover-bg-cover" }
     // "imgProps":{
-    //   "src":"/image/jyzl/phone.gif",
+    //   "src":"/xintong/image/jyzl/phone.gif",
     //   "class":"w-100px top-230px left-500px important-absolute"
     // },
     // "textProps": {
@@ -49,7 +49,7 @@
         "name": "imgtext",
         "class":"flex",
         "imgProps": {
-          "src":"/image/cpfw/cp-1.png",
+          "src":"/xintong/image/cpfw/cp-1.png",
           "imgClass":"ts-20 scale-item-5",
           "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
         },
@@ -68,7 +68,7 @@
         "name": "imgtext",
         "class":"flex",
         "imgProps": {
-          "src":"/image/cpfw/cp-2.jpg",
+          "src":"/xintong/image/cpfw/cp-2.jpg",
           "imgClass":"ts-20 scale-item-5",
           "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
         },
@@ -87,7 +87,7 @@
         "name": "imgtext",
         "class":"flex",
         "imgProps": {
-          "src":"/image/cpfw/cp-3.png",
+          "src":"/xintong/image/cpfw/cp-3.png",
           "imgClass":"ts-20 scale-item-5",
           "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
         },
@@ -106,7 +106,7 @@
         "name": "imgtext",
         "class":"flex",
         "imgProps": {
-          "src":"/image/cpfw/cp-4.jpg",
+          "src":"/xintong/image/cpfw/cp-4.jpg",
           "imgClass":"ts-20 scale-item-5",
           "class":"mr-48px bg-white w-500px rd-8px overflow-hidden"
         },
