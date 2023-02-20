@@ -4,10 +4,10 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-600px",
-    "bg": { "url": "/xintong/image/gswh/header.png", "class": "hover-bg-cover" }
+    "bg": { "url": "/image/gswh/header.png", "class": "hover-bg-cover" }
     // "imgProps":{
-    //   // "src":"/xintong/image/gswh/h-c.png",
-    //   "src":"/xintong/image/effect/dt-4.gif",
+    //   // "src":"/image/gswh/h-c.png",
+    //   "src":"/image/effect/dt-4.gif",
     //   "class":"important-absolute top-50px w-500px left-80px"
     // },
     // "textProps": {
@@ -51,7 +51,7 @@
         "name": "imgtext",
         "class": "overflow-hidden",
         "imgProps": {
-          "src": "/xintong/image/gswh/gsyj.png",
+          "src": "/image/gswh/gsyj.png",
           "imgClass": "ts-20 scale-item-2",
           "class": "w-50% overflow-hidden "
         },
@@ -81,7 +81,7 @@
             "name": "imgtext",
             "class": "overflow-hidden max-w-50%",
             "imgProps": {
-              "src": "/xintong/image/gswh/jzg.jpeg",
+              "src": "/image/gswh/jzg.jpeg",
               "imgClass": "ts-20 scale-item-2",
               "class": "w-100% overflow-hidden "
             },
@@ -97,7 +97,7 @@
       //   "name": "imgtext",
       //   "class": "overflow-hidden flex-row-reverse",
       //   "imgProps": {
-      //     "src": "/xintong/image/gswh/jzg.jpeg",
+      //     "src": "/image/gswh/jzg.jpeg",
       //     "imgClass": "ts-20 scale-item-2",
       //     "class": "w-50% overflow-hidden "
       //   },
@@ -119,7 +119,7 @@
             "name": "imgtext",
             "class": "overflow-hidden max-w-50%",
             "imgProps": {
-              "src": "/xintong/image/gswh/hxwh.jpg",
+              "src": "/image/gswh/hxwh.jpg",
               "imgClass": "ts-20 scale-item-2",
               "class": "w-100% overflow-hidden "
             },
@@ -144,7 +144,7 @@
       //   "name": "imgtext",
       //   "class": "overflow-hidden",
       //   "imgProps": {
-      //     "src": "/xintong/image/gswh/hxwh.jpg",
+      //     "src": "/image/gswh/hxwh.jpg",
       //     "imgClass": "ts-20 scale-item-2",
       //     "class": "w-50% overflow-hidden "
       //   },
@@ -181,7 +181,7 @@
             "name": "imgtext",
             "class": "overflow-hidden max-w-50%",
             "imgProps": {
-              "src": "/xintong/image/gswh/fwln.png",
+              "src": "/image/gswh/fwln.png",
               "imgClass": "ts-20 scale-item-2",
               "class": "w-100% overflow-hidden "
             },
@@ -197,7 +197,7 @@
       //   "name": "imgtext",
       //   "class": "overflow-hidden flex-row-reverse",
       //   "imgProps": {
-      //     "src": "/xintong/image/gswh/fwln.png",
+      //     "src": "/image/gswh/fwln.png",
       //     "imgClass": "ts-20 scale-item-2",
       //     "class": "w-50% overflow-hidden "
       //   },
@@ -226,7 +226,7 @@
         "name": "imgtext",
         "class": "overflow-hidden",
         "imgProps": {
-          "src": "/xintong/image/gswh/hxwh.jpg",
+          "src": "/image/gswh/hxwh.jpg",
           "imgClass": "ts-20 scale-item-2",
           "class": "w-50% overflow-hidden "
         },
@@ -249,7 +249,7 @@
         "name": "imgtext",
         "class": "overflow-hidden flex-row-reverse",
         "imgProps": {
-          "src": "/xintong/image/gswh/fwln.png",
+          "src": "/image/gswh/fwln.png",
           "imgClass": "ts-20 scale-item-2",
           "class": "w-50% overflow-hidden "
         },
@@ -267,7 +267,7 @@
   "ITEM-3": {
     "name": "list",
     "class": "pt-90px pb-50px c-white",
-    "bg": "/xintong/image/gswh/bg-1.jpg",
+    "bg": "/image/gswh/bg-1.jpg",
     // "title":{
     //   "text":"gswh.wh_t",
     //   "class":"text-36px fw-800 text-center"

@@ -4,9 +4,9 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-600px",
-    "bg": { "url": "/xintong/image/gywm/lxwm.jpg", "class": "hover-bg-cover" }
+    "bg": { "url": "/image/gywm/lxwm.jpg", "class": "hover-bg-cover" }
     // "imgProps": {
-    //   "src": "/xintong/image/gywm/h-c.png",
+    //   "src": "/image/gywm/h-c.png",
     //   "class": "w-600px top-76px left-55% important-absolute"
     // }
     // "textProps": {
@@ -343,19 +343,19 @@
     "data": [
       {
         "name": "img",
-        "src": "/xintong/image/gywm/kh-1.png"
+        "src": "/image/gywm/kh-1.png"
       },
       {
         "name": "img",
-        "src": "/xintong/image/gywm/kh-2.png"
+        "src": "/image/gywm/kh-2.png"
       },
       {
         "name": "img",
-        "src": "/xintong/image/gywm/kh-3.png"
+        "src": "/image/gywm/kh-3.png"
       },
       {
         "name": "img",
-        "src": "/xintong/image/gywm/kh-4.png"
+        "src": "/image/gywm/kh-4.png"
       }
     ]
   },
@@ -371,7 +371,7 @@
       {
         "name": "img",
         "class": "w-600px h-auto",
-        "src": "/xintong/image/gywm/md-5.png"
+        "src": "/image/gywm/md-5.png"
       },
       {
         "name": "text",
