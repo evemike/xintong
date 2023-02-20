@@ -4,9 +4,9 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-600px",
-    "bg": { "url": "/image/gywm/gsjs.png", "class": "hover-bg-cover" }
+    "bg": { "url": "/xintong/image/gywm/gsjs.png", "class": "hover-bg-cover" }
     // "imgProps": {
-    //   "src": "/image/gywm/h-c.png",
+    //   "src": "/xintong/image/gywm/h-c.png",
     //   "class": "w-600px top-76px left-55% important-absolute"
     // },
     // "textProps": {
@@ -28,7 +28,7 @@
   "ITEM-20": {
     "name": "list",
     "class": "pt-90px pb-50px c-dark-200 bg-white",
-    // "bg": "/image/gywm/bg-1.png",
+    // "bg": "/xintong/image/gywm/bg-1.png",
     "title": {
       "text": "gywm.jj_t",
       "class": "text-center fw-800 text-36px lh-46px mb-15px"
@@ -39,7 +39,7 @@
         "name": "imgtext", 
         "class":"flex justify-between",
         "imgProps": {
-          "src":"/image/gywm/bg-4.png",
+          "src":"/xintong/image/gywm/bg-4.png",
           "imgClass":"important-w-600px important-h-auto"
         }, 
         "textProps": {
@@ -55,7 +55,7 @@
     "name": "list",
     "class": "pt-90px pb-50px c-white text-36px",
     "bg": {
-      "url":"/image/gywm/bg-1.png",
+      "url":"/xintong/image/gywm/bg-1.png",
       "class":"important-w-1200px m-x-auto translate-x--50% important-left-50% important-h-560px important-top-200px"
     },
     "title": {
@@ -342,7 +342,7 @@
   "ITEM-21": {
     "name": "list",
     "class": "pt-90px pb-50px c-dark-200",
-    "bg": "/image/gywm/bg-2.png",
+    "bg": "/xintong/image/gywm/bg-2.png",
     "title": {
       "text": "gywm.hxbm",
       "class": "text-36px fw-800 text-center"
@@ -499,19 +499,19 @@
     "data": [
       {
         "name": "img",
-        "src": "/image/gywm/kh-1.png"
+        "src": "/xintong/image/gywm/kh-1.png"
       },
       {
         "name": "img",
-        "src": "/image/gywm/kh-2.png"
+        "src": "/xintong/image/gywm/kh-2.png"
       },
       {
         "name": "img",
-        "src": "/image/gywm/kh-3.png"
+        "src": "/xintong/image/gywm/kh-3.png"
       },
       {
         "name": "img",
-        "src": "/image/gywm/kh-4.png"
+        "src": "/xintong/image/gywm/kh-4.png"
       }
     ]
   },
@@ -527,7 +527,7 @@
       {
         "name": "img",
         "class": "w-60%",
-        "src": "/image/gywm/md-5.png"
+        "src": "/xintong/image/gywm/md-5.png"
       },
       {
         "name": "text",
