@@ -4,9 +4,9 @@
   "ITEM-1": {
     "name": "imgtext",
     "class": "h-800px",
-    "bg": { "url": "/xintong/image/jyzl/header.jpg", "class": "hover-bg-cover" }
+    "bg": { "url": "/image/jyzl/header.jpg", "class": "hover-bg-cover" }
     // "imgProps":{
-    //   "src":"/xintong/image/jyzl/phone.gif",
+    //   "src":"/image/jyzl/phone.gif",
     //   "class":"w-100px top-230px left-500px important-absolute"
     // },
     // "textProps": {
@@ -48,7 +48,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/xintong/image/jyzl/item1-1.jpg"
+          "src":"/image/jyzl/item1-1.jpg"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -65,7 +65,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/xintong/image/jyzl/item1-2.png"
+          "src":"/image/jyzl/item1-2.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -82,7 +82,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/xintong/image/jyzl/item1-3.png"
+          "src":"/image/jyzl/item1-3.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -99,7 +99,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/xintong/image/jyzl/item1-4.png"
+          "src":"/image/jyzl/item1-4.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -116,7 +116,7 @@
         "imgProps":{
           "class":"w-400px h-200px rd-8px overflow-hidden",
           "imgClass":"ts-20 scale-item-5",
-          "src":"/xintong/image/jyzl/item1-5.png"
+          "src":"/image/jyzl/item1-5.png"
         },
         "textProps":{
           "class":"flex-1 ml-48px",
@@ -141,14 +141,14 @@
     "boxClass":"w-1200px h-400px m-x-auto box-border mt-90px",
     "commonClass":"bg-sky p-x-8px p-y-4px fw-800 c-white w-200px translate--50% flex justify-between items-center",
     "data":[
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-1"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-2"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-3"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-4"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-5"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-6"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-7"}},
-      {"name":"imgtext","imgProps":{"src":"/xintong/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-8"}}
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-1"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-2"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-3"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-4"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-5"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-6"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-7"}},
+      {"name":"imgtext","imgProps":{"src":"/image/home/BIG-DATA.png","class":"h-60px"},"textProps":{"text":"jyzl.ct-8"}}
     ],
     "centerData":{
       "name":"imgtext",
@@ -164,7 +164,7 @@
     "class":"pt-90px pb-50px c-dark-200 w-100% bg-gray-100",
     "imgProps":{
       "class":"w-1200px m-x-auto",
-      "src":"/xintong/image/jyzl/c-1.jpg"
+      "src":"/image/jyzl/c-1.jpg"
     }
   }
 }
